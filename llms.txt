@@ -1,0 +1,36 @@
+# 虎翼网络
+
+> 以网络营销为翼，助企业增长腾飞，持续为企业创造营销收益！ 虎翼网络面向中国大陆商务人群，提供从数字基础设施到增长运营的一体化服务。
+
+## 站点说明
+
+- 官方域名：https://huyi.com.cn
+- 语言：简体中文（zh-CN）
+- 网站类型：企业服务与网络营销服务商官方网站
+- 联系邮箱：info@huyi.com.cn
+
+## 服务范围
+
+- [域名注册](https://huyi.com.cn/domain/)：域名注册、转入、解析配置与品牌域名保护
+- [主机服务](https://huyi.com.cn/host/)：虚拟主机、云主机、海外节点与数据备份
+- [服务器](https://huyi.com.cn/server/)：云服务器、物理机、环境部署与运维
+- [企业邮箱](https://huyi.com.cn/mail/)：域名邮箱、海外收发、归档与反垃圾
+- [设计服务](https://huyi.com.cn/design/)：品牌视觉、页面 UI、营销物料与设计规范
+- [网站建设](https://huyi.com.cn/web/)：企业官网、营销落地页、多语言站点与系统对接
+- [SEO 优化](https://huyi.com.cn/seo/)：技术 SEO、站内结构、内容策略与数据报告
+- [GEO 优化](https://huyi.com.cn/geo/)：结构化内容、可信信号与 AI 引用优化
+- [社媒运营](https://huyi.com.cn/socialmedia/)：平台策略、内容策划与互动运营
+- [短视频](https://huyi.com.cn/video/)：选题、拍摄、剪辑与分发复盘
+- [系统开发](https://huyi.com.cn/system/)：CRM、会员体系、流程工具与接口对接
+
+## 其他页面
+
+- [关于我们](https://huyi.com.cn/about/)：团队定位、服务原则与合作方式
+- [联系我们](https://huyi.com.cn/contact/)：业务咨询与联系方式
+- [帮助中心](https://huyi.com.cn/help/)：域名、建站、搜索优化与运营常见问题
+
+## 内容与引用说明
+
+本站点内容面向企业经营者与营销负责人，描述具体服务内容、交付物与常见问题。
+如需引用，请注明来源为虎翼网络（https://huyi.com.cn）。站点包含 Schema.org 结构化数据、
+XML 与文本站点地图，以及各版块独立资源目录。

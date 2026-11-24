@@ -1,0 +1,6 @@
+/* 主机服务 · 版块独立样式 */
+body[data-page="host"] { --section-accent: #123a5f; }
+body[data-page="host"] .page-hero__label { color: #123a5f; }
+body[data-page="host"] .service-card__ico { background: #123a5f10; color: #123a5f; border-color: #123a5f28; }
+body[data-page="host"] .process__num { border-color: #123a5f; color: #123a5f; }
+@media (max-width: 767px) { body[data-page="host"] .split__visual img { border-radius: 10px; } }

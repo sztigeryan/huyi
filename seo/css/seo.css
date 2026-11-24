@@ -1,0 +1,6 @@
+/* SEO 优化 · 版块独立样式 */
+body[data-page="seo"] { --section-accent: #d97343; }
+body[data-page="seo"] .page-hero__label { color: #d97343; }
+body[data-page="seo"] .service-card__ico { background: #d9734310; color: #d97343; border-color: #d9734328; }
+body[data-page="seo"] .process__num { border-color: #d97343; color: #d97343; }
+@media (max-width: 767px) { body[data-page="seo"] .split__visual img { border-radius: 10px; } }

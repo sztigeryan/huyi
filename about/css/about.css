@@ -1,0 +1,1 @@
+body[data-page="about"] .group-card{transition:box-shadow .3s ease,transform .3s ease}body[data-page="about"] .group-card:hover{box-shadow:var(--shadow-md);transform:translateY(-3px)}

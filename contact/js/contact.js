@@ -1,0 +1,1 @@
+(function(){'use strict';if(document.body.getAttribute('data-page')!=='contact')return;var f=document.querySelector('[data-contact-form]');if(f)f.setAttribute('novalidate','');})();

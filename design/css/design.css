@@ -1,0 +1,6 @@
+/* 设计服务 · 版块独立样式 */
+body[data-page="design"] { --section-accent: #d97343; }
+body[data-page="design"] .page-hero__label { color: #d97343; }
+body[data-page="design"] .service-card__ico { background: #d9734310; color: #d97343; border-color: #d9734328; }
+body[data-page="design"] .process__num { border-color: #d97343; color: #d97343; }
+@media (max-width: 767px) { body[data-page="design"] .split__visual img { border-radius: 10px; } }

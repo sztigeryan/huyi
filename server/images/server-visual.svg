@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" width="640" height="460" role="img" aria-label="示意图">
+  <defs><pattern id="p" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1.2" fill="#cbd8e4" opacity=".8"/></pattern><filter id="s" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0b2745" flood-opacity=".12"/></filter></defs>
+  <rect x="16" y="16" width="608" height="428" rx="20" fill="url(#p)" opacity=".6"/>
+  <g filter="url(#s)"><rect x="92" y="118" width="430" height="98" rx="12" fill="#ffffff" stroke="#e2eaf1"/></g>
+        <rect x="114" y="140" width="34" height="34" rx="8" fill="#eaf1f7"/>
+        <rect x="160" y="144" width="104" height="6" rx="3" fill="#c9d8e5"/>
+        <rect x="160" y="160" width="150" height="5" rx="2.5" fill="#e2e9f0"/>
+        <rect x="432" y="156" width="60" height="18" rx="9" fill="#d97343" opacity=".16"/><g filter="url(#s)"><rect x="118" y="192" width="430" height="98" rx="12" fill="#ffffff" stroke="#e2eaf1"/></g>
+        <rect x="140" y="214" width="34" height="34" rx="8" fill="#eaf1f7"/>
+        <rect x="186" y="218" width="90" height="6" rx="3" fill="#c9d8e5"/>
+        <rect x="186" y="234" width="130" height="5" rx="2.5" fill="#e2e9f0"/>
+        <rect x="458" y="230" width="60" height="18" rx="9" fill="#d97343" opacity=".16"/><g filter="url(#s)"><rect x="144" y="266" width="430" height="98" rx="12" fill="#f4f8fb" stroke="#e2eaf1"/></g>
+        <rect x="166" y="288" width="34" height="34" rx="8" fill="#d97343"/>
+        <rect x="212" y="292" width="76" height="6" rx="3" fill="#c9d8e5"/>
+        <rect x="212" y="308" width="110" height="5" rx="2.5" fill="#e2e9f0"/>
+        <rect x="484" y="304" width="60" height="18" rx="9" fill="#d97343" opacity=".9"/>
+</svg>

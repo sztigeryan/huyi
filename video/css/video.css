@@ -1,0 +1,6 @@
+/* 短视频 · 版块独立样式 */
+body[data-page="video"] { --section-accent: #123a5f; }
+body[data-page="video"] .page-hero__label { color: #123a5f; }
+body[data-page="video"] .service-card__ico { background: #123a5f10; color: #123a5f; border-color: #123a5f28; }
+body[data-page="video"] .process__num { border-color: #123a5f; color: #123a5f; }
+@media (max-width: 767px) { body[data-page="video"] .split__visual img { border-radius: 10px; } }

@@ -1,0 +1,21 @@
+# 虎翼网络 robots.txt
+User-agent: *
+Allow: /
+
+# 允许主流 AI 抓取与引用，配合 llms.txt 与结构化数据使用
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://huyi.com.cn/sitemap.xml
